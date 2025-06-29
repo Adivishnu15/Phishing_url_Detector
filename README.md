@@ -1,7 +1,7 @@
 ---
 ## Setup Locally
+in terminal/command prompt
 
-```bash
 git clone https://github.com/Adivishnu15/phishing-url-detector.git
 cd phishing-url-detector
 pip install -r requirements.txt
